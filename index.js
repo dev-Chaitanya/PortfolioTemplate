@@ -58,7 +58,7 @@ let Projectslink=document.querySelector('.Projectslink');
 let Bloglink=document.querySelector('.Bloglink');
 let Contactlink=document.querySelector('.Contactlink');
 
-$(window).on("scroll", function(){
+ $(window).on("scroll", function(){
     var targetTop1 = $("#Education").offset().top;
     var targetTop2 = $("#Experience").offset().top;
     var targetTop3 = $("#Skills").offset().top;

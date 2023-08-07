@@ -750,7 +750,7 @@ svg {
   width: 100%;
   height: 40vh;
   position: relative;
-  background: linear-gradient(90deg, rgba(62, 101, 255, 0.6509803922), rgba(62, 101, 255, 0.5803921569)), url("/Portfolio/pngs/mountain.jpg") no-repeat;
+  background: linear-gradient(90deg, rgba(62, 101, 255, 0.6509803922), rgba(62, 101, 255, 0.5803921569)), url("./pngs/mountain.jpg") no-repeat;
   background-position: center;
   background-size: cover;
   background-clip: border-box;
